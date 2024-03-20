@@ -12,7 +12,7 @@ For help and support reach out to bacrifai@amazon.com or grab a 30 minutes slot 
 https://calendly.com/rdstools/30min.
 
 ## Installation
-1.Download the Tool on c:\ drive 
+1.Download the zip file on c:\ drive 
 
 2.extract the zip file on c:\RDSTools
 
