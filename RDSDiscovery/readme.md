@@ -12,6 +12,15 @@ For help and support reach out to bacrifai@amazon.com or grab a 30 minutes slot 
 https://calendly.com/rdstools/30min.
 
 
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
+
+
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
 
