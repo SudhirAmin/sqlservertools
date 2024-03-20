@@ -11,6 +11,12 @@ This library is licensed under the MIT-0 License. See the LICENSE file.
 For help and support reach out to bacrifai@amazon.com or grab a 30 minutes slot  on my calendar:
 https://calendly.com/rdstools/30min.
 
+<code>#aa4400
+  <span
+    class="ml-1 d-inline-block border circle color-border-subtle"
+    style="background-color: #aa4400; height: 8px; width: 8px;"
+  ></span>
+</code>
 
 ```diff
 - text in red
