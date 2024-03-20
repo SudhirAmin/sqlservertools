@@ -1,0 +1,8 @@
+Server Name,Logical CPU Count,MaxMemorySettings GB,Collection Time,CPU Pressure Utilization(%),CPu95Percentile,Total CPU Utilization(%),Server Memory Utlization%,MAX_Totaliops,MAX_ThroughPut(MB),MIN_Totaliops,MIN_ThroughPut(MB),AVG_Totaliops,AVG_ThroughPut(MB),SQl server edition,Sql server version,DBCount,Mem Recommendation,CPU Recommendation,RDS Recommendation based on current configuration,RDS Recommendation based on load,RDS Recommendation based on 95 percentile,EBS,Note
+Server1,48,1350,360,1,18,7,100,31244,435,0,0,1680,32,EE,14,80,Need To scale Memory UP,compute can be scaled down ,db.x1e.16xlarge,db.x1e.16xlarge,,IO1,
+Server2,32,125,360,2,23,9,0,21001,208,0,0,1190,24,EE,13,125,Memory can be scaled down ,compute can be scaled down ,db.m5.4xlarge,"db.m5.4xlarge,db.m5d.4xlarge,db.m6i.4xlarge",,IO1,
+Server3,48,1335,360,10,37,14,100,33021,288,33,0,2038,42,EE,15,33,Need To scale Memory UP,compute can be scaled down ,db.x1e.16xlarge,db.x1e.16xlarge,,IO1,
+Server4,48,1350,360,3,37,17,100,22502,360,265,2,3233,65,EE,15,50,Need To scale Memory UP,compute can be scaled down ,db.x1e.16xlarge,db.x1e.16xlarge,,IO1,
+Server5,48,1350,225,6,36,15,0,29019,373,86,8,2837,59,EE,15,12,Need To scale Memory down,compute can be scaled down ,db.r5.8xlarge,"db.r6i.8xlarge,db.r5b.8xlarge",,GP3,
+Server6,16,50,360,9,0,0,0,133,0,83,0,110,0,EE,15,6,Memory can be scaled down ,compute can be scaled down ,db.m5.4xlarge ,"db.m5.2xlarge ,db.m5d.2xlarge ,db.m6i.2xlarge ,db.t3.2xlarge ",,,
+ ,,,,,,,,,,,,,,,,,,,,,,,
