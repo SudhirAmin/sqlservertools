@@ -11,8 +11,21 @@ This library is licensed under the MIT-0 License. See the LICENSE file.
 For help and support reach out to bacrifai@amazon.com or grab a 30 minutes slot  on my calendar:
 https://calendly.com/rdstools/30min.
 
+
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+
 > [!TIP]
 > Helpful advice for doing things better or more easily.
+
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
+
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
+
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
 
 ## Installation
 1. Download the zip file on c:\ drive 
