@@ -2,7 +2,7 @@
 
 The RDS Discovery Tool is a lightweight tool that provides the capability to scan a fleet of on-prem SQL Servers and does automated checks for 20+ features. It validates supportability of the enabled features on RDS and generates a report which provides recommendations to migrate to RDS, RDS Custom, or EC2 compatible.
 
-[!WARNING]
+> [!WARNING]
 Although this is a non-invasive script, make sure you test and run it in Dev before you run the script in Prod.
 
 ## License
