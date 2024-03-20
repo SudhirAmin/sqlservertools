@@ -11,6 +11,9 @@ This library is licensed under the MIT-0 License. See the LICENSE file.
 For help and support reach out to bacrifai@amazon.com or grab a 30 minutes slot  on my calendar:
 https://calendly.com/rdstools/30min.
 
+> [!TIP]
+> Helpful advice for doing things better or more easily.
+
 ## Installation
 1. Download the zip file on c:\ drive 
 
